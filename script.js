@@ -26,5 +26,6 @@ if (yearOfBirth === null || city === null || favoriteSport === null) {
     message += "Круто! Хочеш стати Юджі Нішідою?";
   }
 
+  
   alert(message);
 }
